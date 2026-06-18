@@ -1,0 +1,20 @@
+{
+  "name": "calgaryduplexes-ca",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A PPC-ready Calgary duplex authority and lead generation site for calgaryduplexes.ca.",
+  "type": "module",
+  "scripts": {
+    "build": "node src/generate-site.mjs",
+    "check": "node src/check-site.mjs",
+    "dev": "python -m http.server 4182 --bind 127.0.0.1"
+  },
+  "keywords": [
+    "Calgary duplexes",
+    "Calgary half duplex",
+    "Calgary real estate",
+    "REPYYC",
+    "lead generation"
+  ],
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,5 @@
+# CalgaryDuplexes.ca
+
+CalgaryDuplexes.ca is a Calgary duplex search, valuation, investor analysis, and PPC testing site for REPYYC/Cody Tritter positioning.
+
+The site does not publish private MLS data. It references a local Matrix export manifest with 4,380 planned duplex export segments across 218 Calgary communities, with raw exports still empty as of 2026-06-11.
